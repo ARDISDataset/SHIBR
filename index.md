@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en-US">
+ 
+  <head>
+    <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title> SHIBR | Blekinge Tekniska Högskola, Department of Computer Science</title>
+  
+  </head>
+
+  <body>
+    
+    <header class="page-header" role="banner">
+      <a href='https://www.bth.se/'>
+        <img src="https://expertsvar.se/wp-content/uploads/2015/02/Logo-BTH-svart-150x150.png" alt="logo"/>
+      </a>
+      <h2 class = "project-name"><center><img src="https://raw.githubusercontent.com/ardisdataset/SHIBR/master/SHIBR2.png" width=50%></center></h2>
+      <br><h3 class="project-tagline"><center>Department of Computer Science, Blekinge Tekniska Högskola, SE-371 79, Karlskrona, Sweden.</h3></center>
+    </header>
+<hr>
+
+</html>
+<!-- Default Statcounter code for Ardisdataset.github.io
+ARDIS https://ardisdataset.github.io/ARDIS/ -->
+<script type="text/javascript">
+var sc_project=11978811; 
+var sc_invisible=1; 
+var sc_security="c8d9473b"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="web statistics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/11978811/0/c8d9473b/1/"
+alt="web statistics"></a></div></noscript>
+<!-- End of Statcounter Code -->
