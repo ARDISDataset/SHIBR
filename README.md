@@ -10,7 +10,7 @@
 
 
 
-#### Cite as: Abbas Cheddad, Hüseyin Kusetogullari, Agrin Hilmkil, Lena Sundin, Amir Yavariabdi, Mustapha Aouache, Johan Hall; "SHIBR-The Swedish Historical Birth Records: A Semi-Annotated Dataset," Accepted for publication in Neural Computing & Applications, Springer, 2021.
+#### Cite as: Cheddad, A., Kusetogullari, H., Hilmkil, A. et al. SHIBR—The Swedish Historical Birth Records: a semi-annotated dataset. Neural Comput & Applic 33, 15863–15875 (2021). https://doi.org/10.1007/s00521-021-06207-z
 
 https://ardisdataset.github.io/SHIBR/
 
